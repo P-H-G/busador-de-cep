@@ -1,5 +1,5 @@
 # busador-de-cep
-buscaddor de CEP
+buscador de CEP
 
 
 
