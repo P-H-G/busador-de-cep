@@ -1,4 +1,4 @@
-# busador-de-cep
+# buscador-de-cep
 buscador de CEP
 
 
